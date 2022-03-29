@@ -21,7 +21,8 @@
 
 <p align = right>«___» __________ 2022 г.
 
-<p align = center>Eslint, Webpack, Axios
+<br/>
+<br/>
 
 <p align = center>Отчет по лабораторной работе № 1
 
